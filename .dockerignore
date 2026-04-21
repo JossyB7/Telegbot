@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.psd
+output/
+user_images/
+.env

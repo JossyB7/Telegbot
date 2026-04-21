@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+psd-tools==1.14.3
+Pillow==10.3.0
+rembg[cpu]==2.0.57
+python-dotenv==1.0.0
+numpy==1.26.2
+requests==2.31.0
+flask==3.1.0
+opencv-python==4.9.0.80
